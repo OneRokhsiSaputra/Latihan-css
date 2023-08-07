@@ -1,0 +1,33 @@
+.container {
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
+}
+
+.p1 {
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    margin: 2px;
+}
+
+.card2 {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.box {
+    text-align: center;
+}
+
+.footer {
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+}
